@@ -1,0 +1,31 @@
+{
+  "name": "protected-webpage",
+  "version": "1.0.1",
+  "description": "Server side webpage password protection using Express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bibekoli/protected-webpage"
+  },
+  "keywords": [
+    "password",
+    "lock",
+    "webpage",
+    "express",
+    "2",
+    "input",
+    "in",
+    "prompt"
+  ],
+  "author": "Bibek Oli",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
